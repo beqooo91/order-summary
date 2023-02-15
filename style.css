@@ -15,6 +15,7 @@ body {
     height: 567px;    
     border-radius: 20px;
     background-color: #FFFFFF;
+    box-shadow: 0px 40px 40px -20px rgba(13, 48, 189, 0.151826);
 }
 
 .img-hero {
@@ -130,6 +131,69 @@ body {
     body {
         background-image: url("./assets/back-desktop.svg");
     }
+
+    .main-div {
+        width: 450px;
+        height: 697px;
+    }
+
+    .summary {
+        font-size: 28px;
+        line-height: 37px;
+        margin: 45px 48px 17px 48px;
+    }
+
+    .text {
+        font-size: 16px;
+        line-height: 26px;
+        margin: 0px 48px 20px 48px;
+    }
+
+    .div-child {
+        width: 354px;
+        height: 98px;
+        justify-content: flex-start;
+    }
+
+    .img-music {
+        margin-top: 25px;
+        margin-left: 24px;
+    }
+
+    .div-annual {
+        margin-top: 5px;
+        margin-left: 20px;        
+    }
+
+     .annual {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 6px;
+     }
+
+     .money {
+        font-size: 16px;
+        line-height: 21px;
+     }
+
+     .change {
+        font-size: 14px;
+        line-height: 19px;
+        margin-top: 40px;
+        margin-left: 68px;
+        margin-right: 0px;
+     }
+
+     .div-pay {
+        width: 354px;
+        height: 50px;
+        margin-top: 32px;
+        margin-bottom: 32px;
+     }
+
+     .cancel {
+        margin-left: 176px;
+     }
 }
 
 
