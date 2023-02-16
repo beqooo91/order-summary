@@ -6,9 +6,8 @@ body {
     background-size: 100% 40%;
     display: flex;
     justify-content: center;
-    align-items: center;
-    height: 709px;
-       
+    align-items: center;     
+    text-align: center;  
 }
 
 .main-div {
@@ -130,8 +129,6 @@ body {
 @media (min-width: 375px) {
     body {
         background-image: url("./assets/back-desktop.svg");
-        height: 900px;
-        text-align: center;
     }
 
     .main-div {
